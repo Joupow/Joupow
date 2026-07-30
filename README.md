@@ -1,16 +1,20 @@
-## Hi there 👋
+## 📄 Security Report — Subject: [Julien]
 
-<!--
-**Joupow/Joupow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Classification: Public · Report date: 2026
 
-Here are some ideas to get you started:
+**Status:** In transition — concepteur-rédacteur / animateur 3D → Cybersecurity
+**Risk level:** Motivated 🔴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Findings
+- ✔️ Writes for a living — un rapport de pentest ne me fait pas peur
+- ✔️ Transforme une kill chain en schéma qu'on comprend vraiment
+- ✔️ À l'aise dans le terminal, documente tout
+- ⚠️ Junior — et honnête là-dessus
+
+### Current exploitation attempts
+- Cracking TryHackMe / HTB → [lien profil]
+- Building a home lab → [repo]
+- Studying for [certif] → [repo de notes]
+
+### Recommended action
+Read my writeups · [LinkedIn] · [email]
