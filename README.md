@@ -17,4 +17,6 @@
 - Studying for [certif] → [repo de notes]
 
 ### Recommended action
-Read my writeups · [LinkedIn](https://www.linkedin.com/in/julien-seren-8057113b9/) · [email]
+Read my writeups · <a href="[https://exemple.com](https://www.linkedin.com/in/julien-seren-8057113b9/)" target="_blank">[LinkedIn]</a> · [email]
+
+
