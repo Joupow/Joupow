@@ -10,13 +10,11 @@
 
 - 🛠️ **Hands-on by nature** : j’aime mettre les mains dans le cambouis : un terminal ouvert, un cours - un lab, voir quelques paquets qui circulent… et la curiosité fait le reste.
 
-- 🔍 **Réflexe debug ** Du bug dans un moteur de jeu au comportement réseau anormal : observer, formuler une hypothèse, tester, corriger. Même méthode, autre terrain.
+- 🔍 **Réflexe debug** Du bug dans un moteur de jeu au comportement réseau anormal : observer, formuler une hypothèse, tester, corriger. Même méthode, autre terrain.
 
 - 🏗️ **Voir l’ensemble avant de creuser le détail** : j’aime comprendre comment les éléments s’imbriquent, qu’il s’agisse d’une scène 3D, d’une campagne de communication ou d’une architecture réseau.
 
-- 🎯 **Une analyse ne vaut que si elle est comprise** : À l'oral, je raconte et j'adapte selon l'interlocuteur. À l'écrit, je traite ma doc comme un livrable : structure nette, message précis, schémas à l'appui.
-
-- 🎨 **Rendre le technique lisible**. Rédaction et 3D dans mon parcours m'aident à traiter ma documentation comme un livrable, pas comme un brouillon. Structure claire, message précis (chaque mot et chaque virgulent comptent), schémas (animés si besoin) quand ils aident à comprendre.
+- ✨ **Une analyse ne vaut que si elle est comprise**. Rédaction et 3D dans mon parcours m'aident à traiter ma documentation comme un livrable, pas comme un brouillon. Structure claire, message précis (chaque mot et chaque virgulent comptent), schémas (animés si besoin) quand ils aident à comprendre.
 
 *Junior en cyber, je construis mon parcours en autodidacte en renforçant mes compétences une couche après l'autre (OSI comprise)*
 
