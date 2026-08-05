@@ -20,7 +20,7 @@
 ### Successful exploitation attempts
 
 - 🎓 Certified CompTIA Network+  → [Digital Badge](https://www.credly.com/badges/3e8506ad-6324-4331-a2ab-19224def8bfc/)
-- 🗂️ TheBigOffice - Network Porfolio → [repo]
+- 🗂️ TheBigOffice - Network Porfolio → [repo](https://github.com/Joupow/TheBigOffice-Network-Portfolio)
 
 ###  Current exploitation attempts 
 
