@@ -25,7 +25,7 @@
 
 ###  Current exploitation attempts 
 
-- 🧩 Cracking TryHackMe Cybersecurity Path → [Profil - Completed Rooms](https://tryhackme.com/p/Joupo/)    
+- 🧩 Cracking TryHackMe Cybersecurity Path → [Profil - Completed Rooms](https://tryhackme.com/p/Joupow/)    
 - 📚 Studying for [CompTIA Security+] 
 
 ### Recommended action 📌
