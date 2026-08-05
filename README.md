@@ -2,7 +2,7 @@
 
 > Classification: Public · Report date: 2026
 
-**Status:**  In transition ✍️ Concepteur-rédacteur digital → 🎮 Animateur 3D gameplay → 🛡️ Cybersécurité
+**Status:**  En transition ✍️ Concepteur-rédacteur digital → 🎮 Animateur 3D gameplay → 🛡️ Cybersécurité
 
 **Risk level:** Motivated 🔴
 
@@ -14,7 +14,7 @@
 
 - 🏗️ **Voir l’ensemble avant de creuser le détail** : j’aime comprendre comment les éléments s’imbriquent, qu’il s’agisse d’une scène 3D, d’une campagne de communication ou d’une architecture réseau.
 
-- ✨ **Une analyse ne vaut que si elle est comprise**. Rédaction et 3D dans mon parcours m'aident à traiter ma documentation comme un livrable, pas comme un brouillon. Structure claire, message précis (chaque mot et chaque virgulent comptent), schémas (animés si besoin) quand ils aident à comprendre.
+- ✨ **Une analyse ne vaut que si elle est comprise**. Rédaction et 3D dans mon parcours m'aident à traiter ma documentation comme un livrable, pas comme un brouillon. Structure claire, message précis (chaque mot, chaque virgule compte), schémas (animés si besoin) quand ils aident à comprendre.
 
 *Junior en cyber, je construis mon parcours en autodidacte en renforçant mes compétences une couche après l'autre (OSI comprise)*
 
