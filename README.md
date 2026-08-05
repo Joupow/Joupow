@@ -27,7 +27,7 @@
 - 🧩 Cracking TryHackMe Cybersecurity Path → [Completed Rooms](https://tryhackme.com/p/Joupow/)    
 - 📚 Studying for CompTIA Security+ 
 
-### Recommended action 📌
+### Recommended action 
 
 - ✍️ Read my writeups (🔜 )
 - 💼 [Linkedin](https://www.linkedin.com/in/julien-seren-8057113b9/)
