@@ -7,7 +7,7 @@
 **Risk level:** Motivated 🔴
 ### Findings
 
-- 🚧 **Build en cours** : Junior en cyber, je construis mon parcours en autodidacte en renforçant mes compétences une couche après l'autre (OSI comprise)
+- 🚧 **Build en cours** : Junior en cyber, je construis mon parcours en autodidacte en renforçant mes compétences une couche après l'autre (OSI comprise).
 
 - 🛠️ Hands-on by nature : j'aime mettre les mains dans le cambouis. Comprendre en manipulant plutôt qu'en lisant. Ouvrir un terminal, lancer une commande, tester un plugin, observer les paquets circuler...
 
