@@ -1,4 +1,4 @@
-## 📄 Security Report : Subject: [Julien]
+## 📄 Security Report - Subject: [Julien]
 
 > Classification: Public · Report date: 2026
 
