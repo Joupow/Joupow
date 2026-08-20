@@ -8,11 +8,11 @@ Risk level: Motivated 🔴
 
 ## Findings
 
-* 🚧 Build in progress: Junior in cyber, I'm building my path as a self-taught learner, levelling up my skills one layer at a time (OSI included).
+* 🚧 Build in progress:  I'm building my path as a self-taught learner, levelling up my skills one layer at a time (OSI included).
 
 * 🛠️ Hands-on by nature: I like to get my hands dirty. I learn by practising, not only by reading. Opening a terminal, running a command, testing a plugin, watching packets move across the wire...
 
-* 🔍 Debug reflex: From a bug in a game engine to abnormal network behaviour: observe, form a hypothesis, test, fix. Same method, different playground.
+* 🔍 Debug reflex: From a bug in the game engine to abnormal network behaviour: observe, form a hypothesis, test, fix. Same method, different playground.
 
 * 🏗️ See the whole before digging into the detail: I like to understand how the pieces fit together, whether it's a 3D scene, a communications campaign, or a network architecture.
 
