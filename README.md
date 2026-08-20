@@ -1,35 +1,37 @@
-# 📄 Security Report - Subject: [Julien]
+## 📄 Security Report - Subject: [Julien]
 
-Classification: Public · Report date: 2026  
+> Classification: Public · Report date: 2026
 
-Status: In transition ✍️ Digital copywriter → 🎮 3D gameplay animator → 🛡️ Cybersecurity  
+**Status:**  En transition ✍️ Concepteur-rédacteur digital → 🎮 Animateur 3D gameplay → 🛡️ Cybersécurité
 
-Risk level: Motivated 🔴
+**Risk level:** Motivated 🔴
+### Findings
 
-## Findings
+- 🚧 **Build en cours** : Junior en cyber, je construis mon parcours en autodidacte en renforçant mes compétences une couche après l'autre (OSI comprise).
 
-* 🚧 Build in progress:  I'm building my path as a self-taught learner, levelling up my skills one layer at a time (OSI included).
+- 🛠️ Hands-on by nature : j'aime mettre les mains dans le cambouis. Comprendre en manipulant plutôt qu'en lisant. Ouvrir un terminal, lancer une commande, tester un plugin, observer les paquets circuler...
 
-* 🛠️ Hands-on by nature: I like to get my hands dirty. I learn by practising, not only by reading. Opening a terminal, running a command, testing a plugin, watching packets move across the wire...
+- 🔍 **Réflexe debug :** Du bug dans un moteur de jeu au comportement réseau anormal : observer, formuler une hypothèse, tester, corriger. Même méthode, autre terrain.
 
-* 🔍 Debug reflex: From a bug in the game engine to abnormal network behaviour: observe, form a hypothesis, test, fix. Same method, different playground.
+- 🏗️ **The big picture first, then the details:** I like to understand how the pieces fit together, whether it’s a 3D scene, a communications campaign, or a network architecture.
 
-* 🏗️ See the whole before digging into the detail: I like to understand how the pieces fit together, whether it's a 3D scene, a communications campaign, or a network architecture.
+- ✨ **Une analyse ne vaut que si elle est comprise :** rédaction et 3D dans mon parcours m'aident à traiter ma documentation comme un livrable, pas comme un brouillon. Structure claire, message précis (chaque mot, chaque virgule compte), schémas (animés si besoin) quand ils aident à comprendre.
 
-* ✨ An analysis is only worth something if it gets understood: my writing, storytelling and animation background help me treat my documentation as a deliverable, not a draft. Clear structure, precise message (every word, every comma counts), diagrams (animated if needed) when they aid understanding.
+### Successful exploitation attempts
 
-## Successful exploitation attempts
+- 🎓 Certified CompTIA Network+  → [Digital Badge](https://www.credly.com/badges/3e8506ad-6324-4331-a2ab-19224def8bfc/)
+- 🗂️ TheBigOffice - Network Porfolio → [repo](https://github.com/Joupow/TheBigOffice-Network-Portfolio)
 
-* 🎓 Certified CompTIA Network+ → [Digital Badge](https://www.credly.com/badges/3e8506ad-6324-4331-a2ab-19224def8bfc/)
-* 🗂️ TheBigOffice - Network Porfolio → [repo](https://github.com/Joupow/TheBigOffice-Network-Portfolio)
+###  Current exploitation attempts 
 
-## Current exploitation attempts
+- 🧩 Cracking TryHackMe Cybersecurity Path → [Completed Rooms](https://tryhackme.com/p/Joupow/)    
+- 📚 Studying for CompTIA Security+ 
 
-* 🧩 Cracking TryHackMe Cybersecurity Path → [Completed Rooms](https://tryhackme.com/p/Joupow/)
-* 📚 Studying for CompTIA Security+
+### Recommended action 
 
-## Recommended action
+- ✍️ Read my writeups (🔜 )
+- 💼 [Linkedin](https://www.linkedin.com/in/julien-seren-8057113b9/)
+- 📬 [Me contacter](mailto:juliencybersecu@gmail.com)
 
-* ✍️ Read my writeups (🔜 )
-* 💼 [Linkedin](https://www.linkedin.com/in/julien-seren-8057113b9/)
-* 📬 [Contact me](mailto:juliencybersecu@gmail.com)
+
+
