@@ -8,7 +8,7 @@ Risk level: Motivated 🔴
 
 ## Findings
 
-* 🚀 **On the launchpad** I'm building my path as a self-taught learner, levelling up my skills one layer at a time (OSI included).
+* 🚀 **On the launchpad:** I'm building my path as a self-taught learner, levelling up my skills one layer at a time (OSI included).
 
 * 🛠️ **Hands-on by nature:** I like to turn theory into practice. Opening a terminal, running a command, testing a plugin, watching packets move across the wire..
 
