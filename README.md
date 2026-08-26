@@ -1,35 +1,42 @@
-# 📄 Security Report - Subject: [Julien]
+# Hello, I'm Julien
 
-Classification: Public · Report date: 2026  
+**Systems & Network Administrator  ·  Career Transition  ·  Security Focus**  
 
-Status: In transition ✍️ Digital copywriter → 🎮 3D gameplay animator → 🛡️ Cybersecurity  
+📍 Lyon, France · **Open to apprenticeship and entry-level opportunities**
 
-Risk level: Motivated 🔴
+Former copywriter turned 3D animator, I am now transitioning into systems and network administration, with a growing focus on cybersecurity. I'm building my path as a self-taught learner, levelling up my skills one layer at a time (OSI included).
 
-## Findings
+My approach to learning is simple:
 
-* 🚀 **On the launchpad:** I'm building my path as a self-taught learner, levelling up my skills one layer at a time (OSI included).
+**build → break → troubleshoot → document.**
+## 🔧 What I Build
 
-* 🛠️ **Hands-on by nature:** I like to turn theory into practice. Opening a terminal, running a command, testing a plugin, watching packets move across the wire..
+### 👉 [Dunder MiffLAN · Network Portfolio](https://github.com/Joupow/DunderMiffLAN-Network-Portfolio)
 
-* 🔍 **Debug reflex:** From a bug in the game engine to abnormal network behaviour: observe, form a hypothesis, test, fix. Same method, different playground.
+An enterprise-style network homelab built with Packet Tracer, structured into six progressive modules:
 
-* 🏗️ **The big picture first, then the details:** I like to understand how the pieces fit together, whether it’s a 3D scene, a communications campaign, or a network architecture.
+**3-tier LAN · HSRP/OSPF redundancy · DMZ & ASA firewall · spine-leaf datacenter · VoIP · Wi-Fi**
 
-* ✨ **An analysis is only worth something if it gets understood**: my writing, storytelling and animation background help me treat my documentation as a deliverable, not a draft. Clear structure, precise message (every word, every comma counts), diagrams (animated if needed) when they aid understanding.
+Every feature is validated through **actual state evidence** : ACL counters, routing tables, logs and other operational data, rather than screenshots that merely show that something *appears* to be set up.
+### 🔜 Windows Active Directory Lab *(in progress)*
 
-## Successful exploitation attempts
+Building and managing a Windows domain environment under Hyper-V, covering domain deployment, replication, Group Policy (GPO) and Windows administration.
 
-* 🎓 Certified CompTIA Network+ → [Digital Badge](https://www.credly.com/badges/3e8506ad-6324-4331-a2ab-19224def8bfc/)
-* 🗂️ Dunder MiffLAN - Network Porfolio → [repo](https://github.com/Joupow/DunderMiffLAN-Network-Portfolio)
+## 📜 Certifications & path completed
 
-## Current exploitation attempts
-
-* 🧩 Cracking TryHackMe Cybersecurity Path → [Completed Rooms](https://tryhackme.com/p/Joupow/)
+- 🎓 Certified CompTIA Network+ → [Digital Badge](https://www.credly.com/badges/3e8506ad-6324-4331-a2ab-19224def8bfc/)
 * 📚 Studying for CompTIA Security+
+- 🧩 TryHackMe → [Completed Rooms](https://tryhackme.com/p/Joupow/)    
 
-## Recommended action
+## 🧭 How I Work
 
-* ✍️ Read my writeups (🔜 )
+- **Debugging is where I really learn.** Routing loops and Router-ID conflicts are not fully understood by reading about them in a course, they are understood by diagnosing and fixing them.
+
+- **I prove systems through state, not screenshots.** A service is not "working" simply because the interface says so. I want to be able to verify it through counters, tables, logs or other measurable evidence.
+
+- **I treat documentation as a deliverable, not an afterthought.** My background in copywriting and 3D animation is useful here: clear structure, precise communication, and diagrams whenever they genuinely make a concept easier to understand.
+
+## 📫 Get in Touch
+
 * 💼 [Linkedin](https://www.linkedin.com/in/julien-seren-8057113b9/)
 * 📬 [Contact me](mailto:juliencybersecu@gmail.com)
