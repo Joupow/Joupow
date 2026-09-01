@@ -20,7 +20,7 @@ Every feature is validated through **actual state evidence** : ACL counters, rou
 
 Building and managing a Windows domain environment under Hyper-V, covering domain deployment, replication, Group Policy (GPO) and Windows administration.
 
-## ⚡Tools & Accelerators"
+## ⚡Tools & Accelerators
 
 ### ⚙️ [The Prompt - CLI-style LLM Learning Engine](https://github.com/Joupow/The-Prompt)
 
