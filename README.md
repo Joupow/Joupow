@@ -13,14 +13,24 @@ My approach to learning is simple:
 
 ### 👉 [Dunder MiffLAN · Network Portfolio](https://github.com/Joupow/DunderMiffLAN-Network-Portfolio)
 
-An enterprise-style network homelab built with Packet Tracer, structured into six progressive modules:
-
-**3-tier LAN · HSRP/OSPF redundancy · DMZ & ASA firewall · spine-leaf datacenter · VoIP · Wi-Fi**
+An enterprise-style network homelab built with Packet Tracer, structured into six progressive modules: **3-tier LAN · HSRP/OSPF redundancy · DMZ & ASA firewall · spine-leaf datacenter · VoIP · Wi-Fi**
 
 Every feature is validated through **actual state evidence** : ACL counters, routing tables, logs and other operational data, rather than screenshots that merely show that something *appears* to be set up.
 ### 🔜 Windows Active Directory Lab *(in progress)*
 
 Building and managing a Windows domain environment under Hyper-V, covering domain deployment, replication, Group Policy (GPO) and Windows administration.
+
+## 📜Tools & Accelerators"
+
+### ⚙️ [The Prompt - CLI-style LLM Learning Engine](https://github.com/Joupow/The-Prompt)
+
+The Prompt turns an AI conversation into a **prompt-driven educational game system**, designed to transform learning **Python, PowerShell, and Linux** into an interactive adventure.
+
+- **Decoupled Architecture:** State management is fully decoupled from the LLM core using a lightweight, local `SAVE.json` state machine, ensuring persistence across LLM context windows.
+
+- **Zero-Lock-in Portability:** Designed with a "Bring Your Own AI" model, allowing seamless session context migration between Claude, ChatGPT, and Gemini without losing progress.
+
+- **CLI & Gamified Engine:** Implements a modular command interface (`GO`, `DEBUG`, `STATS`) to evaluate logic, track multi-axis skill progression, and simulate real-world troubleshooting scenarios.
 
 ## 📜 Certifications & path completed
 
