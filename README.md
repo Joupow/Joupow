@@ -11,7 +11,7 @@ My approach to learning is simple:
 **build → break → troubleshoot → document.**
 ## 🔧 What I Build
 
-### 👉 [Dunder MiffLAN · Network Portfolio](https://github.com/Joupow/DunderMiffLAN-Network-Portfolio)
+### 🏢 [Dunder MiffLAN · Network Portfolio](https://github.com/Joupow/DunderMiffLAN-Network-Portfolio)
 
 An enterprise-style network homelab built with Packet Tracer, structured into six progressive modules: **3-tier LAN · HSRP/OSPF redundancy · DMZ & ASA firewall · spine-leaf datacenter · VoIP · Wi-Fi**
 
@@ -20,7 +20,7 @@ Every feature is validated through **actual state evidence** : ACL counters, rou
 
 Building and managing a Windows domain environment under Hyper-V, covering domain deployment, replication, Group Policy (GPO) and Windows administration.
 
-## ⚡Tools & Accelerators
+## 🧩Tools & Accelerators
 
 ### ⚙️ [The Prompt - CLI-style LLM Learning Engine](https://github.com/Joupow/The-Prompt)
 
@@ -36,7 +36,7 @@ The Prompt turns an AI conversation into a **prompt-driven educational game syst
 
 - 🎓 Certified CompTIA Network+ → [Digital Badge](https://www.credly.com/badges/3e8506ad-6324-4331-a2ab-19224def8bfc/)
 * 📚 Studying for CompTIA Security+
-- 🧩 TryHackMe → [Completed Rooms](https://tryhackme.com/p/Joupow/)    
+- 🔓 TryHackMe → [Completed Rooms](https://tryhackme.com/p/Joupow/)    
 
 ## 🧭 How I Work
 
