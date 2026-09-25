@@ -1,6 +1,6 @@
 # Hi, I'm Julien 👋
 
-**Systems & Network Administrator  ·  Career Transition  ·  Hands-on labs · Security Focus**  
+**Systems & Network Administrator  ·  Career Transition  · Security Focus**  
 Based in Lyon, France · Open to apprenticeship and entry-level opportunities
 
 I build and test infrastructure to understand how it behaves in practice.
@@ -79,14 +79,6 @@ Hands-on with:
 - 🎓 Certified CompTIA Network+ → [Digital Badge](https://www.credly.com/badges/3e8506ad-6324-4331-a2ab-19224def8bfc/)
 * 📚 Studying for CompTIA Security+
 - 🔓 TryHackMe → [Completed Rooms](https://tryhackme.com/p/Joupow/)    
-
-## 🧭 How I Work
-
-- **I learn by testing systems, not just configuring them.** In networking, that meant tracing return paths, Router-ID collisions and TFTP asymmetry. In Active Directory, it meant deliberately breaking DNS, DHCP, inter-site replication and SYSVOL, then diagnosing and restoring them. If I cannot explain why something failed and why the fix worked, I do not consider it understood.
-
-- **I trust observable state more than green lights.** Routing tables, ACL counters, event logs, replication state, service registrations and actual user impact tell me more than a successful-looking configuration screen. I try to validate systems end to end, before and after a fix.
-
-- **I treat documentation as a deliverable, not an afterthought.** My background in copywriting and 3D animation is useful here: clear structure, precise communication, and diagrams whenever they genuinely make a concept easier to understand.
 
 ## 📫 Get in Touch
 
