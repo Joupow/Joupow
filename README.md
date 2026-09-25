@@ -5,7 +5,9 @@ Based in Lyon, France · Open to apprenticeship and entry-level opportunities
 
 I build and test infrastructure to understand how it behaves in practice.
 
-That means configuring services, generating failures, tracing traffic, understanding the mechanics and protocols, checking system state, troubleshooting issues and validating fixes. With a lot of learning happening somewhere between “why?” and “ah, got it.
+That means configuring services, tracing traffic, and understanding the mechanics and protocols just as often as generating failures, checking system state or troubleshooting issues and validating fixes. 
+
+With a lot of the learning happening somewhere between “why?” and “ah, got it.”
 ## 🧪 Homelabs
 
 #### 🏢 Dunder MifflAD · Active Directory & Windows Server
