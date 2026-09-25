@@ -5,9 +5,7 @@ Based in Lyon, France · Open to apprenticeship and entry-level opportunities
 
 I build and test infrastructure to understand how it behaves in practice.
 
-That means configuring services, generating failures, tracing traffic, understand the mechanics & protcols, checking system state, troubleshooting issues and validating fixes.
-
-Most of what you'll find here is hands-on in homelabs
+That means configuring services, generating failures, tracing traffic, understanding the mechanics and protocols, checking system state, troubleshooting issues and validating fixes. With a lot of learning happening somewhere between “why?” and “ah, got it.
 ## 🧪 Homelabs
 
 #### 🏢 Dunder MifflAD · Active Directory & Windows Server
@@ -31,7 +29,7 @@ Hands-on with:
 - SYSVOL replication while AD replication remained healthy
 - Contractor account lifecycle controls
 
-#### 🌐 Dunder MiffLAN · Network Portfolio
+#### 🏢 [Dunder MiffLAN · Network Portfolio](https://github.com/Joupow/DunderMiffLAN-Network-Portfolio)
 
 Started as a way to turn CompTIA Network+ objectives into something tangible.  
 Building it exposed routing, redundancy and service issues I had to troubleshoot along the way.
@@ -52,9 +50,9 @@ Hands-on with:
 - TFTP asymmetry
 - Routing and NAT sequencing problems
 
-## ⚙️ Side project
+## 🌱 Side project
 
-#### ⚙️ The Prompt · Portable LLM Learning Engine
+#### 🧩 [The Prompt · Portable LLM Learning Engine](https://github.com/Joupow/The-Prompt)
 
 Started as a way to get more hands-on with Python, PowerShell and Linux instead of just reading about them.  It grew into a portable learning engine I had to design around persistence, progression and cross-LLM compatibility.
 
