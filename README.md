@@ -1,86 +1,45 @@
 # Hi, I'm Julien 👋
 
-**Systems & Network Administrator  ·  Career Transition  · Security Focus**  
-Based in Lyon, France · Open to apprenticeship and entry-level opportunities
+**Systems & Network Administrator · Career transition · Security focus**  
+Based in Lyon, France · Open to apprenticeship and entry-level roles
 
-I build and test infrastructure to understand how it behaves in practice.
+I build and run infrastructure to see how the pieces fit together and how they actually behave.
 
-That means configuring services, tracing traffic, and understanding the mechanics and protocols just as often as generating failures, checking system state or troubleshooting issues and validating fixes. 
+Self-taught and hands-on: I stand services up, poke at them, and stay with a problem until it goes from "why?" to "ah, got it."
 
-With a lot of the learning happening somewhere between “why?” and “ah, got it.”
 ## 🧪 Homelabs
 
-#### 🏢 Dunder MifflAD · Active Directory & Windows Server
+#### 🏢 [Dunder MifflAD · Active Directory & Windows Server](https://github.com/Joupow/DunderMifflAD)
 
-Built around the skills that keep showing up in Windows sysadmin job postings.  
-I intentionally break services to practice diagnosis, recovery and proving the fix.
+An enterprise Windows lab, scoped from the skills that keep showing up in real sysadmin postings. This is where I go past just standing things up: I break services on purpose, diagnose them, and prove the fix.
 
-Hands-on with:
-
-- AD DS, DNS, DHCP and GPO
-- Windows LAPS and account lifecycle
-- Multi-site Active Directory
-- File services, DFS Namespace and DFS-R
-- PowerShell administration
-
-**Things I Broke:**
+A taste of what I broke and recovered:
 
 - DC discovery through stacked DNS failures
-- DHCP availability after taking a domain controller offline
 - Inter-site replication after a DC renumbering
-- SYSVOL replication while AD replication remained healthy
-- Contractor account lifecycle controls
+- SYSVOL replication while AD replication stayed healthy
+
+Hands-on with AD DS, DNS, DHCP, GPO, Windows LAPS, DFS and PowerShell. Season 1 complete, more on the way.
 
 #### 🏢 [Dunder MiffLAN · Network Portfolio](https://github.com/Joupow/DunderMiffLAN-Network-Portfolio)
 
-Started as a way to turn CompTIA Network+ objectives into something tangible.  
-Building it exposed routing, redundancy and service issues I had to troubleshoot along the way.
+Started as a way to turn CompTIA Network+ objectives into something tangible, and grew into real routing, redundancy and service issues I had to troubleshoot along the way.
 
-Hands-on with:
-
-- VLANs, trunks, STP and inter-VLAN routing
-- HSRP, OSPF and DHCP relay
-- ASA, DMZ, NAT/PAT and ACLs
-- Spine-leaf architecture and ECMP
-- VoIP, QoS and Wi-Fi
-
-**Things I Had to Troubleshoot:**
-
-- Broken return paths
-- Router-ID collisions
-- DHCP reachability issues
-- TFTP asymmetry
-- Routing and NAT sequencing problems
+Hands-on with VLANs and inter-VLAN routing, HSRP and OSPF, ASA / DMZ / NAT, spine-leaf, VoIP and Wi-Fi.
 
 ## 🌱 Side project
 
 #### 🧩 [The Prompt · Portable LLM Learning Engine](https://github.com/Joupow/The-Prompt)
 
-Started as a way to get more hands-on with Python, PowerShell and Linux instead of just reading about them.  It grew into a portable learning engine I had to design around persistence, progression and cross-LLM compatibility.
+A lightweight, cross-LLM learning engine I built to get hands-on with Python, PowerShell and Linux, with progression and state that survive across sessions and models.
 
-Hands-on with:
+## 📜 Certifications & path
 
-- Prompt and system design
-- Local state management with `SAVE.json`
-- Cross-LLM portability
-- Skill progression and retention logic
-- Modular commands and learning workflows
-
-**Things I Had to Figure Out:**
-
-- Keeping progression across sessions and context windows
-- Moving the same learning state between ChatGPT, Claude and Gemini
-- Separating the learning engine from the narrative layer
-- Tracking understanding, execution, debugging and autonomy independently
-- Keeping the whole system lightweight enough to run from a few text files
-
-## 📜 Certifications & path completed
-
-- 🎓 Certified CompTIA Network+ → [Digital Badge](https://www.credly.com/badges/3e8506ad-6324-4331-a2ab-19224def8bfc/)
-* 📚 Studying for CompTIA Security+
-- 🔓 TryHackMe → [Completed Rooms](https://tryhackme.com/p/Joupow/)    
+- 🎓 CompTIA Network+ certified → [Digital Badge](https://www.credly.com/badges/3e8506ad-6324-4331-a2ab-19224def8bfc/)
+- 📚 Studying for CompTIA Security+
+- 🔓 TryHackMe → [Completed Rooms](https://tryhackme.com/p/Joupow/)
 
 ## 📫 Get in Touch
 
-* 💼 [Linkedin](https://www.linkedin.com/in/julien-seren-8057113b9/)
-* 📬 [Contact me](mailto:juliencybersecu@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/julien-seren-8057113b9/)
+- 📬 [Contact me](mailto:juliencybersecu@gmail.com)
