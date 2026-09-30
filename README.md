@@ -9,7 +9,7 @@ Self-taught and hands-on: I stand services up, poke at them, and stay with a pro
 
 ## 🧪 Homelabs
 
-#### 🏢 [Dunder MifflAD · Active Directory & Windows Server](https://github.com/Joupow/DunderMifflAD)
+#### 🪪 [Dunder MifflAD · Active Directory & Windows Server](https://github.com/Joupow/DunderMifflAD)
 
 An enterprise Windows lab, scoped from the skills that keep showing up in real sysadmin postings. This is where I go past just standing things up: I break services on purpose, diagnose them, and prove the fix.
 
